@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mxpdm",
+  "name": "Mob XP Drop Mod",
+  "description": "Makes mobs drop XP whether hit by player or not",
+  "version": "0.1",
+  "mcversion": "1.8",
+  "url": "http://www.p455w0rd.net",
+  "updateUrl": "",
+  "authorList": ["p455w0rd"],
+  "credits": "p455w0rd",
+  "logoFile": "p455w0rdcraft_mod_logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
