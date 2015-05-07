@@ -39,7 +39,7 @@ public class EntityLivingBaseHandler {
 	public static Method getExperiencePoints(){
 		Method e = null;
 		try {
-			e = EntityLivingBase.class.getDeclaredMethod("getExperiencePoints", EntityPlayer.class);
+			e = EntityLivingBase.class.getDeclaredMethod("func_70693_a", EntityPlayer.class);
 			e.setAccessible(true);
 		} catch(Exception ex) { throw new RuntimeException(ex); }
 		return e;
